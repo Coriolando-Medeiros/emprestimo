@@ -30,7 +30,7 @@ Insira as informações solicitadas pelo programa.
 ```
    
 
-##Exemplo de Uso
+## Exemplo de Uso
 ```
 shell
 
@@ -50,7 +50,7 @@ totalizando R$  5489.64
 Principal 5000.00 +  1489.64
 ```
 
-##Explicação do Cálculo
+## Explicação do Cálculo
 
 O valor da parcela mensal é calculado usando a fórmula de amortização:
 
@@ -64,14 +64,14 @@ Onde:
 
 O total pago ao final do empréstimo é o valor da parcela multiplicado pelo número de parcelas. Os juros totais são calculados subtraindo o valor original do empréstimo do total pago.
 
-##Requisitos
+## Requisitos
 
     Ruby 2.x ou superior instalado no seu ambiente.
 
-##Contribuições
+## Contribuições
 
 Se você deseja contribuir para o desenvolvimento deste projeto, fique à vontade para fazer um fork e enviar pull requests com melhorias ou correções.
 
-##Licença
+## Licença
 
 Este projeto está licenciado sob a MIT License.
